@@ -6,7 +6,7 @@ Public version of the bank is available here: http://matthematician.github.io/co
 
 Find a quirk or error, or have a suggestion? Open an Issue in this Github repo.
 
-VecIt! is a project of @matthematician . For more information about @StevenClontz 's CheckIt! platform see http://checkit.clontz.org .
+This bank is a project of @matthematician . For more information about @StevenClontz 's CheckIt! platform see http://checkit.clontz.org .
 
 ## Learning Standards
 
